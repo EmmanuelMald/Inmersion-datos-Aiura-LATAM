@@ -34,3 +34,4 @@ data=data.rename(columns=cols)#Will give the same result as the function above
 #attributes
 #variables
 #strings
+sorted(,a)
